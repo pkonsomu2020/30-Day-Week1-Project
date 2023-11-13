@@ -18,4 +18,5 @@ This is my personal portfolio website where I showcase my works and skills relat
 - Javascript for functioning
 
 # Demo site
-https://pinchezportfolio.vercel.app/
+
+https://pinchezportfolio.netlify.app/
